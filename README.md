@@ -1,6 +1,9 @@
 # **Hackulation: One**
 Cheats for the PCVR game Population: One 
 
+> [!CAUTION]
+> By downloading and using, you understand the [BigBox VR Code of Confuct](https://bigboxvr.com/code-of-conduct.html). This project is for educational and research purposes only, and should not be used for any illegal activities. I am not responsible for how others may use the project.
+
 ## **FEATURES**
 
 * Infinite Ammo
@@ -14,9 +17,3 @@ Cheats for the PCVR game Population: One
 ## **HELP**
 
 If you need any support, please contact @milkyboivr on Discord
-
-## **DISCLAIMER**
-
-> [!CAUTION]
-> By downloading and using, you understand the [BigBox VR Code of Confuct](https://bigboxvr.com/code-of-conduct.html).
-> This project is for educational and research purposes only, and should not be used for any illegal activities. I am not responsible for how others may use the project.
