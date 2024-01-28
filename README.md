@@ -11,7 +11,7 @@ Cheats for the PCVR game Population: One (Infinite Ammo)
 ## **INSTRUCTIONS**
 
 1. Install [Cheat Engine](https://www.cheatengine.org/).
-2. Install `PopulationONE.ct` from releases.
+2. Install `PopulationONE.ct` from [releases](https://github.com/MilkyBoiVR/Hackulation-One/releases/latest).
 3. Double click `PopulationONE.ct` to load the cheat table into Cheat Engine.
 4. Click on the `Active` checkbox on all scripts to enable them.
 
