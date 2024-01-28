@@ -20,5 +20,6 @@ If you need any support, please contact @milkyboivr on Discord
 > [!CAUTION]
 > By downloading and using, you understand the [BigBox VR Code of Confuct](https://bigboxvr.com/code-of-conduct.html).
 
+
 > > [!NOTE]
 > This project is for educational and research purposes only, and should not be used for any illegal activities. I am not responsible for how others may use the project.
