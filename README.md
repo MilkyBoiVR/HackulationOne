@@ -7,7 +7,6 @@ Cheats for the PCVR game Population: One
 ## **FEATURES**
 
 * Infinite Ammo
-Fire as many bullets as you want without ammo decrease
 
 ## **INSTRUCTIONS**
 
