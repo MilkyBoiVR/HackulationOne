@@ -15,4 +15,5 @@ Spray and pray without worrying about your ammo, time to make your enemies fear 
 ## **HELP**
 
 For support or ideas, please contact @milkyboivr on Discord
+
 (even if u wanna say hi, im friendly I promise)
