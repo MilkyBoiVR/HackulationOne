@@ -5,14 +5,14 @@
 # **Infinite Ammo**
 Spray and pray without worrying about your ammo, time to make your enemies fear you!
 
-## **INSTRUCTIONS**
+### **INSTRUCTIONS**
 
 1. Install [Cheat Engine](https://www.cheatengine.org/).
 2. Install `PopulationONE.ct` from [releases](https://github.com/MilkyBoiVR/Hackulation-One/releases/latest).
 3. Double click `PopulationONE.ct` to load the cheat table into Cheat Engine.
 4. Click on the `Active` checkbox on all scripts to enable them.
 
-## **HELP**
+### **HELP**
 
 For support or ideas, please contact @milkyboivr on Discord
 
