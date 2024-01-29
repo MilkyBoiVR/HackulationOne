@@ -2,17 +2,17 @@
 > [!CAUTION]
 > By downloading and using, you understand the [BigBox VR Code of Conduct](https://bigboxvr.com/code-of-conduct.html). This project is for educational and research purposes only, and should not be used for any illegal activities. I am not responsible for how others may use the project.
 
-# **Infinite Ammo**
+### **Infinite Ammo**
 Spray and pray without worrying about your ammo, time to make your enemies fear you!
 
-### **INSTRUCTIONS**
+## **INSTRUCTIONS**
 
 1. Install [Cheat Engine](https://www.cheatengine.org/).
 2. Install `PopulationONE.ct` from [releases](https://github.com/MilkyBoiVR/Hackulation-One/releases/latest).
 3. Double click `PopulationONE.ct` to load the cheat table into Cheat Engine.
 4. Click on the `Active` checkbox on all scripts to enable them.
 
-### **HELP**
+## **HELP**
 
 For support or ideas, please contact @milkyboivr on Discord
 
