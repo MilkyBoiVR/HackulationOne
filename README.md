@@ -1,12 +1,9 @@
 ![Hackulation One Text](https://github.com/MilkyBoiVR/HackulationOne/assets/111146381/a57f5a32-c999-4d50-aaff-ef24c652b393)
-Cheats for the PCVR game Population: One (Infinite Ammo)
-
 > [!CAUTION]
 > By downloading and using, you understand the [BigBox VR Code of Conduct](https://bigboxvr.com/code-of-conduct.html). This project is for educational and research purposes only, and should not be used for any illegal activities. I am not responsible for how others may use the project.
 
-## **FEATURES**
-
-* Infinite Ammo
+# **Infinite Ammo**
+Spray and pray without worrying about your ammo, time to make your enemies fear you!
 
 ## **INSTRUCTIONS**
 
@@ -17,4 +14,4 @@ Cheats for the PCVR game Population: One (Infinite Ammo)
 
 ## **HELP**
 
-If you need any support, please contact @milkyboivr on Discord
+For support or ideas, please contact @milkyboivr on Discord
