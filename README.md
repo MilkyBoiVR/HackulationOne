@@ -13,7 +13,7 @@ Got something I don't have here? Feel free to get in touch!
 2. Install `PopulationONE.ct` from [releases](https://github.com/MilkyBoiVR/Hackulation-One/releases/latest).
 3. Double click `PopulationONE.ct` to load the cheat table into Cheat Engine.
 4. Click on the `Active` checkbox on all scripts to enable them.
-> [!INFORMATION]
+> [!NOTE]
 > Safe? Yes this is entirely safe, this is a table made within Cheat Engine. All tools and projects made by me are safe to use, just making life easier. 
 
 ## **Contact**
